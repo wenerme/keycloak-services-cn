@@ -2,9 +2,9 @@
 
 Keycloak 中国相关服务集成
 
-- 企业微信
-- [ ] 微信
-- [ ] 钉钉
+- 企业微信 - wechat-work
+- [ ] 微信 - wechat
+- [ ] 钉钉 - dingtalk
 
 ## Reference
 
